@@ -61,4 +61,6 @@ async def ytdl(client, message):
    await msg.delete()
    os.remove(video_file)
 
+print("اشتغل يظميلي")
+print("الملف بتاع @YYYBD")
 bot.run()
