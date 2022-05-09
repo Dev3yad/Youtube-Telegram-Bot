@@ -4,7 +4,7 @@ from yt_dlp import YoutubeDL
 from requests import get
 import os
 
-token = input("[~] Enter Bot Token : ") or '2146982601:AAFxQ3rXAyq2cm7mJdLLAw7NO7WaRlI-3bw'
+token = input("[~] Enter Bot Token : ") or '2146982601'
 Sudo_id = input("[~] Enter Sudo id : ") or 944353237
 
 opts = {
