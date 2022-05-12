@@ -5,4 +5,4 @@
 
 2- `python3 main.py`
 
-<code>قناة التليجرام @YYYBR</code>
+<b>قناة التليجرام [@YYYBR](https://YYYBR)</b>
